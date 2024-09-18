@@ -4,6 +4,7 @@ public class Calculator {
 
 
 	public double doAdd(double num1, double num2) {
+		// Adding a new comment
 		return num1 + num2;
 	}
 
